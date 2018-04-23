@@ -1,0 +1,1 @@
+pyinstaller -F Main.py -n TwitterTracker --icon=logo.ico -w --noupx
